@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a backend engineer.
+- 🔭 I’m currently working on yunyizhineng in anhui.
+- 🌱 I’m currently learning frontend and desire to be a fullstack engineer.
+- 🌱 I’m currently focusing on backend, data security.
+- 🤔 I’m looking for help with slack off.
+- 📫 How to reach me: sangshixian@outlook.com
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangshixian&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqxx6661&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
